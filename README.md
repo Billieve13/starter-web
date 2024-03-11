@@ -13,4 +13,4 @@ Following a tutorial
 Right now you can't
 
 ## Deployment
-You also can't deploy it quite yet
+You also can't deploy it quite yet. Soon maybe?
