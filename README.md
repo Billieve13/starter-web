@@ -11,3 +11,6 @@ Following a tutorial
 
 ## How to Contribute
 Right now you can't
+
+## Deployment
+You also can't deploy it quite yet
