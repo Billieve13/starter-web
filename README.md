@@ -15,4 +15,4 @@ You also can't deploy it quite yet. Soon maybe?
 
 ##Copyright
 
-You can't steal this
+You can't steal this, for now at least
